@@ -1,93 +1,124 @@
 
-<h1 align="center">Hi 👋, I'm Aklilu Tamirat</h1>
+# Hi 👋, I'm Aklilu Tamirat
 
-<h3 align="center">
-  🤖 Machine Learning Engineering Student | AI & Software Development
-</h3>
+### 🤖 Machine Learning Engineer | 💻 Full-Stack Web Developer
 
-<p align="center">
-  Building AI projects and exploring Machine Learning,
-  Data Science, and Computer Vision.
-</p>
+I build practical software applications and explore Artificial Intelligence, Machine Learning, and data-driven solutions.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tamirataklilu575-ctrl&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
-</p>
+- 🧠 Focused on Machine Learning, Python, and software development
+- 🐍 Building Python applications and working with data
+- 🌐 Developing web applications using Flask, HTML, CSS, and SQL databases
+- 🔬 Exploring applied Machine Learning through personal and collaborative projects
+- 🚀 Learning by building practical projects and continuously improving my skills
+- 📍 Based in Addis Ababa, Ethiopia
 
----
-
-## 🚀 About Me
-
-- 🎓 Machine Learning Engineering Student at EAII
-- 🧠 Interested in AI, Machine Learning, and Data Science
-- 🐍 Using Python for programming and ML projects
-- 🔬 Developing **Derm AI** for skin lesion classification
-- 📊 Exploring supervised learning and predictive modeling
-- 🌐 Portfolio: [View My Portfolio](https://sites.google.com/view/aklilu-tamirat/home)
+📫 **Email:** tamirataklilu575@gmail.com  
+🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/aklilu-tamirat-579583443)  
+🌐 **Portfolio:** [Visit my portfolio](https://sites.google.com/view/aklilu-tamirat/home)
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ My Technical Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,html,css,js,sqlite,vscode" alt="Languages and Tools" />
-</p>
+### 💻 Programming & Web Development
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 📊 Data & Machine Learning
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### 🗄️ Databases, Testing & Tools
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🏫 EduTrack — School Management System
+
+A full-stack web application for managing student records, daily attendance, academic marks, report cards, and CSV exports.
+
+**Tech Stack:** Python, Flask, Jinja2, PostgreSQL, SQLite, HTML, CSS, pytest
+
+- 🔐 Role-based access for administrators and teachers
+- 📊 Attendance and academic result management
+- 🧪 Automated testing with pytest
+- ☁️ Deployed online using Render
+
+🔗 [View Source Code](https://github.com/tamirataklilu575-ctrl/edutrack)  
+🌍 [Open Live Demo](https://edutrack-6jlc.onrender.com)
+
+### 🧬 Derm AI — Skin Lesion Classification
+
+A collaborative Machine Learning project exploring skin lesion image classification, including melanoma versus benign lesions.
+
+**Focus:** Computer Vision and Machine Learning
+
+🔗 [View Project on GitHub](https://github.com/tamirataklilu575-ctrl/Derm-AI)
+
+### 📈 PredictEd-EAI — Student Performance Prediction
+
+A Machine Learning project focused on predicting student academic performance using a supervised learning approach.
+
+🔗 [View Project on GitHub](https://github.com/tamirataklilu575-ctrl/-PredictEd-EAI)
+
+### 🧮 Python Calculator App
+
+A programming project demonstrating calculator functionality and Python fundamentals.
+
+🔗 [View Project on GitHub](https://github.com/tamirataklilu575-ctrl/Calculator-App)
+
+### 🌐 Personal Portfolio Website
+
+My personal portfolio repository for showcasing my projects, technical skills, and development journey.
+
+🔗 [View Portfolio Repository](https://github.com/tamirataklilu575-ctrl/aklilu-portfolio)
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tamirataklilu575-ctrl&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamirataklilu575-ctrl&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamirataklilu575-ctrl&show_icons=true&hide_border=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tamirataklilu575-ctrl&layout=compact&hide_border=true)
 
 ---
 
-## 🏆 GitHub Achievements
+## 🎓 Education & Certifications
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tamirataklilu575-ctrl&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-### 🧬 Derm AI
-Skin lesion classification: Melanoma vs. Benign.
-
-[🔗 View Project](https://github.com/tamirataklilu575-ctrl/Derm-AI)
-
-### 📊 Student Performance Prediction
-A supervised machine learning project focused on predicting student performance.
-
-### 🧮 Python Calculator App
-A Python project demonstrating programming fundamentals.
+- **Ethiopian Artificial Intelligence Institute (EAII)** — Completed Machine Learning studies
+- Udacity — Programming Fundamentals
+- Udacity — AI Fundamentals
+- Udacity — Data Science Fundamentals
+- Udacity — Android Developers Fundamentals
 
 ---
 
-## 🤝 Connect With Me
+## 🌍 Languages
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aklilu-tamirat-579583443">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://sites.google.com/view/aklilu-tamirat/home">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-2E8B57?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+- Amharic — Native
+- English — Fluent
 
 ---
 
-<p align="center">
-  ⭐ Thanks for visiting my profile! Feel free to explore my repositories.
-</p>
+## 🤝 Let's Connect
+
+I'm interested in opportunities involving Python development, Machine Learning, AI support, data-related projects, and web application development.
+
+📧 **Email:** tamirataklilu575@gmail.com  
+💼 **LinkedIn:** [Aklilu Tamirat](https://www.linkedin.com/in/aklilu-tamirat-579583443)  
+💻 **GitHub:** [Explore my repositories](https://github.com/tamirataklilu575-ctrl)
+
+⭐ Thanks for visiting my profile! Feel free to explore my projects and follow my learning journey.
