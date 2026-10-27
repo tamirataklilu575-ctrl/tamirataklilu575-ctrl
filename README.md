@@ -14,7 +14,7 @@ I build practical software applications and explore Artificial Intelligence, Mac
 
 📫 **Email:** tamirataklilu575@gmail.com  
 🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/aklilu-tamirat-579583443)  
-🌐 **Portfolio:** [Visit my portfolio](https://sites.google.com/view/aklilu-tamirat/home)
+🌐 **Portfolio:** [Visit my portfolio](https://aklilu-portfolio-site.vercel.app)
 
 ---
 
