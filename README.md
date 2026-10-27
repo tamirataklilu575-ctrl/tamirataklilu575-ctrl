@@ -86,7 +86,7 @@ A programming project demonstrating calculator functionality and Python fundamen
 
 My personal portfolio repository for showcasing my projects, technical skills, and development journey.
 
-🔗 [View Portfolio Repository](https://github.com/tamirataklilu575-ctrl/aklilu-portfolio)
+🔗 [View Portfolio on GitHub](https://github.com/tamirataklilu575-ctrl/aklilu-portfolio-site)
 
 ---
 
