@@ -67,6 +67,8 @@ A collaborative Machine Learning project exploring skin lesion image classificat
 **Focus:** Computer Vision and Machine Learning
 
 🔗 [View Project on GitHub](https://github.com/tamirataklilu575-ctrl/Derm-AI)
+🌍 [Open Live Demo](https://dermai-r6gt.onrender.com/)
+
 
 ### 📈 PredictEd-EAI — Student Performance Prediction
 
